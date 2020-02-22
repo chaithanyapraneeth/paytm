@@ -1,2 +1,1 @@
-this file contains all the user
-helloo allll   jklhajdkhsajkhs
+this file contains all the users
